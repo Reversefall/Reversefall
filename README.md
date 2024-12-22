@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **nphutien.1704@gmail.com**
 
-- 📄 Communication : **I possess advanced proficiency in reading, writing, and speaking English, exceeding general competency levels.](I possess advanced proficiency in reading, writing, and speaking English, exceeding general competency levels.**
+- 📄 Communication : **I possess advanced proficiency in reading, writing, and speaking English, exceeding general competency levels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
