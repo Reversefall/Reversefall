@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reversefall" alt="reversefall" /></a> </p>
 
-- 🔭 I’m currently working on [WEBG301](https://github.com/Reversefall/Webg301-1012)
+- 🔭 I’m currently working on [COMP1640]
 
 - 🌱 I’m currently studying **at FPT Greenwich University**
 
